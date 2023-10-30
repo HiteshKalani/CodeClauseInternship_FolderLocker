@@ -1,2 +1,2 @@
 # CodeClauseInternship_FolderLocker
-author-hiteshkalani
+folder locker app in java using java.
